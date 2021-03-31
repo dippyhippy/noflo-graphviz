@@ -13,7 +13,7 @@
   "dependencies": {
     "noflo": "0.3.x",
     "graphviz": "0.0.x",
-    "underscore": "1.4.x"
+    "underscore": "1.12.1"
   },
   "devDependencies": {
     "nodeunit": ">=0.6.0",
